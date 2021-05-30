@@ -1,0 +1,11 @@
+parkingspace,occupancy
+1,unoccupied
+2,unoccupied
+3,unoccupied
+4,occupied
+5,occupied
+6,occupied
+7,occupied
+8,unoccupied
+9,unoccupied
+10,unoccupied

@@ -1,0 +1,3 @@
+firstname,lastname,id,email,password
+Peter,Parker,1,peter@yorku.ca,t1t1
+Thor,Odinson,2,thor@yorku.ca,t2t2
